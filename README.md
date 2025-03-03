@@ -14,3 +14,10 @@ These lectures are for both IT / Tech. professionals and university students.
 ## Module 1
 
 - Slides
+
+## Module 2
+
+## Module 3
+
+## Module 4
+
