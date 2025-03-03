@@ -13,7 +13,7 @@ These lectures are for both IT / Tech. professionals and university students.
 
 ## Module 1
 
-- Slides
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtlFYQe6x68tezz7A1nYtRoorRfc9HDeg2n53EmhfavVK1GROZ4a8PjB43fUodCBpOyJeQhycq2N_m/pub?start=false&loop=false&delayms=3000)
 
 ## Module 2
 
