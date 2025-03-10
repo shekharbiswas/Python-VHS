@@ -20,6 +20,6 @@ These lectures are for both IT / Tech. professionals and university students.
 - [Colab](https://colab.research.google.com/drive/1FqwEQlIn7wV9Hiz2_2gCToLxqpDp3KJU?usp=sharing)
 ## Module 3
 
-- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTMfbDF_wRRp93ePDOC82IKZMbVXtHNzPn9iTN01u3I6iY5lLjptzAdd-JfU8ZfaT4LQ0lUmJfdywP2/pub?start=false&loop=false&delayms=3000&slide=id.g2d4d2827b9b_0_12)
+- [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTMfbDF_wRRp93ePDOC82IKZMbVXtHNzPn9iTN01u3I6iY5lLjptzAdd-JfU8ZfaT4LQ0lUmJfdywP2/pub?start=false&loop=false&delayms=3000&slide=id.g2e9327ae303_0_5)
 ## Module 4
 
