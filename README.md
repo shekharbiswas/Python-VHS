@@ -21,5 +21,7 @@ These lectures are for both IT / Tech. professionals and university students.
 ## Module 3
 
 - [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTMfbDF_wRRp93ePDOC82IKZMbVXtHNzPn9iTN01u3I6iY5lLjptzAdd-JfU8ZfaT4LQ0lUmJfdywP2/pub?start=false&loop=false&delayms=3000&slide=id.g2e9327ae303_0_5)
+- [Colab](https://colab.research.google.com/drive/1dguEJgquy6bzGX7RR9XWjtNciEkLl7pb)
+  
 ## Module 4
 
