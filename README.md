@@ -31,4 +31,4 @@ These lectures are for both IT / Tech. professionals and university students.
 ## Recommendation
 
 - [**Automate_the_boring_stuff**](https://edu.anarcho-copy.org/Programming%20Languages/Python/Automate%20the%20Boring%20Stuff%20with%20Python.pdf)
-- Python basics
+- [Python basics](https://github.com/shekharbiswas/Python-VHS/blob/main/Python%20is%20Fun.pdf)
